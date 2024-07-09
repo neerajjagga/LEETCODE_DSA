@@ -1,0 +1,47 @@
+#include <iostream>
+using namespace std;
+
+int divideByBinarySearch(int dividend, int divisor) {
+  int s = 0;
+  int e = dividend;
+  int ans = -1;
+
+  if (divisor == 0) {
+    cout << ("Division by zero is undefined") << endl; 
+    return -1;
+  }
+
+  if (dividend == 0) {
+    return 0;
+  }
+  
+  while(s <= e) {
+    int mid = s + (e-s)/2;
+    
+    if(mid*divisor == dividend) {
+      ans = mid;
+      break;
+    }
+    else if(mid*divisor < dividend) {
+      ans = mid;
+      s = mid + 1;
+    }
+    else {
+      e = mid - 1;
+    }
+  }
+  return ans;
+}
+
+int main() {
+  int dividend = 29;
+  int divisor = 7;
+
+  int ans = divideByBinarySearch(abs(dividend), abs(divisor));
+
+  if((dividend > 0 && divisor < 0) || (dividend < 0 && divisor > 0)) {
+    ans = 0 - ans;
+  }
+
+  cout << "Answer is: " << ans << endl;
+}
