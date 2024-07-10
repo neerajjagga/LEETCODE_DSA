@@ -1,0 +1,43 @@
+#include <iostream>
+using namespace std;
+
+int FindOddOccuringElementwithBinarySearch(int arr[], int n) {
+  int s = 0;
+  int e = n - 1;
+
+  while(s <= e) {
+    int mid = s + (e-s)/2;
+
+    if(s == e) {
+      return s;
+    }
+    if(mid & 1) {
+      // means mid index is odd
+      if(mid >= 0 && arr[mid] == arr[mid-1]) {
+        // we are on left side
+        s = mid + 1;
+      } else {
+        e = mid - 1;
+      }
+    }
+    else {
+      // means mid index is even
+      if(mid < n && arr[mid] == arr[mid+1]) {
+        s = mid + 2;
+      } else {
+        // e = mid because 
+        // ya ho hum right mai hai ya answer pr hai
+        e = mid;
+      }
+    }
+  }
+  return -1;
+}
+int main() {
+  int arr[] = {10,10,2,2,3,3,2,5,5,6,6,7,7};
+  int n = sizeof(arr)/sizeof(int);
+
+  int ans = FindOddOccuringElementwithBinarySearch(arr,n);
+  cout << "Odd occuring element is: " << arr[ans] << endl;
+  return 0;
+}
