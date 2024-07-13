@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/neerajjagga/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/neerajjagga/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/neerajjagga/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/neerajjagga/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/neerajjagga/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/neerajjagga/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/neerajjagga/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/neerajjagga/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -24,4 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/neerajjagga/DSA/tree/master/0074-search-a-2d-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/neerajjagga/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/neerajjagga/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/neerajjagga/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 <!---LeetCode Topics End-->
