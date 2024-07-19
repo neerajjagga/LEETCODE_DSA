@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/neerajjagga/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/neerajjagga/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/neerajjagga/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0410-split-array-largest-sum](https://github.com/neerajjagga/DSA/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/neerajjagga/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/neerajjagga/DSA/tree/master/0658-find-k-closest-elements) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/neerajjagga/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/neerajjagga/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/neerajjagga/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/neerajjagga/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0410-split-array-largest-sum](https://github.com/neerajjagga/DSA/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/neerajjagga/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/neerajjagga/DSA/tree/master/0658-find-k-closest-elements) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/neerajjagga/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -54,4 +56,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/neerajjagga/DSA/tree/master/0658-find-k-closest-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/neerajjagga/DSA/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/neerajjagga/DSA/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/neerajjagga/DSA/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
