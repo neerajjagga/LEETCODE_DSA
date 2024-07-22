@@ -70,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/neerajjagga/DSA/tree/master/0410-split-array-largest-sum) |
+## String
+|  |
+| ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/neerajjagga/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Stack
+|  |
+| ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/neerajjagga/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
