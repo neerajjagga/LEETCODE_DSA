@@ -5,7 +5,7 @@ public:
         int n = bank.size();
 
         int preDeviceCount = 0;
-        int result = 0;
+        int lasers = 0;
 
         for(int i=0; i<n; i++) {
             int currentDeviceCount = 0;
@@ -14,13 +14,16 @@ public:
                     currentDeviceCount++;
                 }
             }
-            result += (currentDeviceCount * preDeviceCount);
-             if(currentDeviceCount != 0) {
-            preDeviceCount = currentDeviceCount;
-        }
+            lasers += (currentDeviceCount * preDeviceCount);
+
+            if(currentDeviceCount != 0) {
+
+              preDeviceCount = currentDeviceCount; 
+
+            }
         }
        
 
-        return result;
+        return lasers;
     }
 };
