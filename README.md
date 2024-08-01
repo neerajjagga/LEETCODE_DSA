@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/neerajjagga/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/neerajjagga/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/neerajjagga/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/neerajjagga/DSA/tree/master/0169-majority-element) |
 | [0410-split-array-largest-sum](https://github.com/neerajjagga/DSA/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/neerajjagga/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/neerajjagga/DSA/tree/master/0658-find-k-closest-elements) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/neerajjagga/DSA/tree/master/0169-majority-element) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/neerajjagga/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0807-custom-sort-string](https://github.com/neerajjagga/DSA/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/neerajjagga/DSA/tree/master/0926-find-and-replace-pattern) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/neerajjagga/DSA/tree/master/0169-majority-element) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/neerajjagga/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/neerajjagga/DSA/tree/master/0658-find-k-closest-elements) |
 | [0807-custom-sort-string](https://github.com/neerajjagga/DSA/tree/master/0807-custom-sort-string) |
@@ -100,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/neerajjagga/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/neerajjagga/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/neerajjagga/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
