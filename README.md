@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/neerajjagga/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/neerajjagga/DSA/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/neerajjagga/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0807-custom-sort-string](https://github.com/neerajjagga/DSA/tree/master/0807-custom-sort-string) |
 | [0926-find-and-replace-pattern](https://github.com/neerajjagga/DSA/tree/master/0926-find-and-replace-pattern) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/neerajjagga/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/neerajjagga/DSA/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/neerajjagga/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/neerajjagga/DSA/tree/master/0658-find-k-closest-elements) |
 | [0807-custom-sort-string](https://github.com/neerajjagga/DSA/tree/master/0807-custom-sort-string) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/neerajjagga/DSA/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/neerajjagga/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/neerajjagga/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0807-custom-sort-string](https://github.com/neerajjagga/DSA/tree/master/0807-custom-sort-string) |
