@@ -4,7 +4,7 @@ public:
         if(n == 0) return false;
 
         vector<bool> prime(n, true); // all are prime marked already
-        prime[0] == prime[1] == false; //both zero and one are non-prime
+        // prime[0] == prime[1] == false; //both zero and one are non-prime
 
         int ans = 0;
         for(int i=2; i<n; i++) {
