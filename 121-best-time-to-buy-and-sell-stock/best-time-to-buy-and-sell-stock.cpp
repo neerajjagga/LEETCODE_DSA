@@ -1,26 +1,27 @@
 class Solution {
 public:
 
- int findMaxProfitRE(vector<int> &prices) {
+void findMaxProfitRE(vector<int> &prices, int index, int&minPrice, int &maxProfit) {
 
-    // track minimum price
-    int minPrice = prices[0];
-    int maxProfit = 0;
-
-    for(int i=1; i<prices.size(); i++) {
-        int profit = prices[i] - minPrice;
-        maxProfit = max(maxProfit, profit);
-
-        // update minimum price
-        minPrice = min(minPrice, prices[i]);
+    // base case;
+    if(index >= prices.size()) {
+        return;
     }
+
     
-    return maxProfit;
- }
+    if(prices[index] < minPrice) minPrice = prices[index];
+    int totalProfit = prices[index] - minPrice;
+    if(totalProfit > maxProfit) maxProfit = totalProfit;
+
+
+    findMaxProfitRE(prices, index+1, minPrice, maxProfit);
+}
     int maxProfit(vector<int>& prices) {
         int minPrice = prices[0];
-        
-        int maxProfit = findMaxProfitRE(prices);
+        int maxProfit = 0;
+        int index = 0;
+
+        findMaxProfitRE(prices, index,minPrice,maxProfit);
 
         return maxProfit;
     }
