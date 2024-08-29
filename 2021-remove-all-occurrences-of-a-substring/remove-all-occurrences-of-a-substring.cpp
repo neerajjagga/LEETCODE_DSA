@@ -7,10 +7,12 @@ public:
         if(found != string::npos) {
 
             // extract left and right string
-            string leftStr = s.substr(0, found);
-            string rightStr = s.substr(found+part.length(), s.size());
+            // string leftStr = s.substr(0, found);
+            // string rightStr = s.substr(found+part.length(), s.size());
 
-            s = leftStr + rightStr;
+            // s = leftStr + rightStr;
+
+            s.erase(found, part.length());
 
             // recursive call
             removeOccRE(s, part);
